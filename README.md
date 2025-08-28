@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi there, I'm Stephany </h1>
 
 <p align="center">
-  💻 Passionate Software Developer from <strong>São Paulo, Brazil</strong> 🇧🇷 <br>
-  🌱 Currently learning <strong>Python, HTML, CSS, and Javascript</strong> <br>
-  🚧 Actively building a full-stack <strong>Inquilinos App</strong> as a personal project
+  💻 FullStack Developer from <strong>São Paulo, Brazil</strong> 🇧🇷 <br>
+  🌱 Currently learning <strong>Python, C#, Tailwind, HTML, CSS, and Javascript</strong> <br>
+  🚧 Currently working on personal projects
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
     <br>
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,c#,mysql" />
     <br>
-    <img src="https://skillicons.dev/icons?i=flask" />
+    <img src="https://skillicons.dev/icons?i=flask,tailwind" />
     <br>
 </div>
 
