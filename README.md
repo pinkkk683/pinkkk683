@@ -17,9 +17,9 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
     <br>
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,c#,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,cs,mysql" />
     <br>
-    <img src="https://skillicons.dev/icons?i=flask,tailwind" />
+    <img src="https://skillicons.dev/icons?i=flask,tailwind,dotnet" />
     <br>
 </div>
 
