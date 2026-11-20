@@ -47,7 +47,7 @@ WHERE disponibilidade = 'aberta';
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pinkkk683/conversor-de-moedas">Conversor de Moedas</a></h3>
       <p>Conversão em tempo real entre BRL, USD e EUR consumindo uma API REST.</p>
-      <img src="assets/chips-conversor.svg" alt="HTML, CSS, JavaScript, API" height="40" />S
+      <img src="assets/chips-conversor.svg" alt="HTML, CSS, JavaScript, API" height="40" />
     </td>
   </tr>
 </table>
