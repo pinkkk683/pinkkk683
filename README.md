@@ -59,7 +59,6 @@ WHERE disponibilidade = 'aberta';
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkkk683&layout=compact&langs_count=8&bg_color=0D0A24&title_color=FF2E93&text_color=E6EDF3&border_color=7B2FF7" alt="Linguagens mais usadas" height="170" />
-<img src="https://github-readme-stats.vercel.app/api?username=pinkkk683&show_icons=true&bg_color=0D0A24&title_color=FF2E93&text_color=E6EDF3&icon_color=FFC857&border_color=7B2FF7" alt="Estatísticas do GitHub" height="170" />
 
 <br><br>
 
