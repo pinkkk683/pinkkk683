@@ -42,12 +42,12 @@ WHERE disponibilidade = 'aberta';
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pinkkk683/Inquilinos_control">Gestão de Inquilinos</a></h3>
       <p>Sistema web com banco de dados, consultas SQL, autenticação e relatórios financeiros.</p>
-      <img src="https://skillicons.dev/icons?i=python,flask,sqlite&theme=dark" alt="" />
+      <img src="assets/chips-inquilinos.svg" alt="Python, Flask, SQLite" height="40" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pinkkk683/conversor-de-moedas">Conversor de Moedas</a></h3>
       <p>Conversão em tempo real entre BRL, USD e EUR consumindo uma API REST.</p>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="" />
+      <img src="assets/chips-conversor.svg" alt="HTML, CSS, JavaScript, API" height="40" />S
     </td>
   </tr>
 </table>
