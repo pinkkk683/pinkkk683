@@ -40,14 +40,14 @@ WHERE disponibilidade = 'aberta';
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pinkkk683/Inquilinos_control">Gestão de Inquilinos</a></h3>
-      <p>Sistema web com banco de dados, consultas SQL, autenticação e relatórios financeiros.</p>
-      <img src="assets/chips-inquilinos.svg" alt="Python, Flask, SQLite" height="40" />
+      <h3><a href="https://github.com/pinkkk683/olist-dashboard">Olist: vendas e entregas</a></h3>
+      <p>Dashboard em Power BI sobre e-commerce, com SQL, modelagem e medidas em DAX. Mostra onde as entregas atrasam mais e quais categorias geram receita.</p>
+      <img src="assets/chips-olist.svg" alt="Power BI, SQL, DAX, Python" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pinkkk683/conversor-de-moedas">Conversor de Moedas</a></h3>
-      <p>Conversão em tempo real entre BRL, USD e EUR consumindo uma API REST.</p>
-      <img src="assets/chips-conversor.svg" alt="HTML, CSS, JavaScript, API" height="40" />
+      <h3><a href="https://github.com/pinkkk683/Inquilinos_control">Gestão de Inquilinos</a></h3>
+      <p>Sistema web com banco de dados, consultas SQL, autenticação e relatórios financeiros.</p>
+      <img src="assets/chips-inquilinos.svg" alt="Python, Flask, SQLite" />
     </td>
   </tr>
 </table>
